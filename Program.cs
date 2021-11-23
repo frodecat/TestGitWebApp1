@@ -12,6 +12,8 @@ namespace TestGitWebApp1
     public class Program
     {
         // Endring1
+        // Endring2
+
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
